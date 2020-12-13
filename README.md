@@ -6,7 +6,7 @@ Also working as mentor at  [Clarusway](https://clarusway.com/ "Clarusway") and a
 
 I prefer React & React Native for web/mobile front-end, Django and Express technologies for back-end development but I love everything about JS and Python! 
 
-Additionally I have experience in AWS services like EC2, VPC, CloudFormation, ... and Devops operations: Docker, Kubernet, Ansible ...
+Additionally I have experience in AWS services like EC2, VPC, CloudFormation, ... and Devops operations: Docker, Kubernetes, Ansible ...
 
 
 <!--
