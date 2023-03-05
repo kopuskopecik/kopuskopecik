@@ -1,7 +1,5 @@
 Erdoğan here. I'm a software engineer, interested in everything :laughing: but my speciality is  web and mobile applications. I'm also interested in DevOps operations and AWS clouding :yellow_heart:. 
 
-Also working as mentor at  [Clarusway](https://clarusway.com/ "Clarusway") and as a freelancer.
-
 ### What I'm use?:running:
 
 I prefer React & React Native for web/mobile front-end, Django and Express technologies for back-end development but I love everything about JS and Python! 
